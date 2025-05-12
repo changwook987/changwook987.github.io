@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 const boj = [
   { id: 1000, name: "A + B" },
+  { id: 1067, name: "이동" },
   { id: 1160, name: "Random Number Generator" },
   { id: 1492, name: "합" },
   { id: 1517, name: "버블 소트" },
