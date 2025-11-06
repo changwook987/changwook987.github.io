@@ -11,4 +11,3 @@ hero:
       text: 독서
       link: /book
 ---
-
