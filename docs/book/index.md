@@ -1,3 +1,3 @@
 # 책 읽는중
 
-- :book: [introduction to algorithms](/book/intro2algo)
+- :book: [introduction to algorithms](./intro2algo)
